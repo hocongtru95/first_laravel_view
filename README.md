@@ -12,4 +12,7 @@
 - Kích thước đóng gói lớn
 - Tốc độ xử lý chậm hơn so với một số Framework khác
 
+**Một số package thường được sử dụng trong Laravel:**
+
+
 
